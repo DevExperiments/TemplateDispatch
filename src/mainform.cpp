@@ -2,8 +2,8 @@
 #include <vcl.h>
 #pragma hdrstop
 
-#include "MainForm.h"
-#include "Dispatch.h"
+#include "mainForm.h"
+#include "dispatch.h"
 //---------------------------------------------------------------------------
 #pragma package(smart_init)
 #pragma resource "*.dfm"
